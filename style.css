@@ -1,0 +1,63 @@
+h1 {
+	color:#0F6DC4;
+	font-family: font-family: 'Homemade Apple', cursive;
+}
+
+.pasto {
+	background-color: #7BB07C;
+	width: 600px;
+	height: 300px;
+	padding: 20px;
+	position: absolute;
+}
+.perimetro {
+	border: 4px solid #fff;
+	width: 595px;
+	height: 295px;
+}
+
+.arco-izq{
+	border: 3px solid #fff;
+	width: 70px;
+	height: 130px;
+	position: absolute;
+	top: 100px;
+	left: 20px;
+}
+.arco-der{
+	border: 3px solid #fff;
+	width: 70px;
+	height: 130px;
+	position: absolute;
+	right: 19px;
+	top: 100px;
+}
+
+.centro {
+	border: 3px solid #fff;
+	width: 130px;
+	height: 130px;
+	border-radius: 70px;
+	position: absolute;
+	margin: auto;
+	right: 0px;
+	left: 0px;
+	top: 0px;
+	bottom: 0px;
+}
+
+.pelota1{
+	position: absolute;
+	left: 80px;
+	top: 102px;
+}
+.pelota2{
+	position: absolute;
+	left: 320px;
+	top: 55px;
+}
+.pelota3{
+	position: absolute;
+	right: 100px;
+	top: 200px;
+}
